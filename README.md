@@ -6,6 +6,9 @@ A Crypto Bot that Automates Profitable Trades.
 - RUNS SILENTLY.
 - CAN MAKE 1000+ A DAY DEPENDING ON THE AMOUNT YOU INVEST.
 - PREFERABLY HAVE ATLEAST 100 - 500 USD IN ANY CRYPTOCURRENCY TO START MAKING DECENT PROFIT.
+# NOTES...
+- MAKE SURE TO READ THE README FILE BEFORE OPENING THE BOT TO BE INFORMED ON THE SETTINGS.
+
 # Requirements.
 Up-to-date clock
 The clock must be accurate, synchronized to a NTP server very frequently to avoid problems with communication to the exchanges.
